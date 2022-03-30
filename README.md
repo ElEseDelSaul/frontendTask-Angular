@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
-![Project Image] (https://github.com/ElEseDelSaul/frontendTask-Angular/blob/main/src/assets/CrudTasks.png)
+![](/src/assets/CrudTasks.png)
 
 ## Development server
 
